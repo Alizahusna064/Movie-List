@@ -5,7 +5,7 @@ Movie List Page
 ![Halaman Daftar Movie](img/Home.png)
 
 Detail Movie Page
-![Halaman Detail Movie](img/Detail Movie.png)
+![Halaman Detail Movie](img/Detail.png)
 
 Fitur Search Bar Movie Page
 ![Search Bar Movie](img/Search.png)
